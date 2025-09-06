@@ -1,55 +1,197 @@
-{
-  "project": "Xây dựng khu nhà ở cao tầng để bán (Berriver)",
-  "package": "Cung cấp và thi công hệ thống cơ điện cho tòa N04",
-  "location": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
-  "work": "Cung cấp và thi công hệ thống cơ điện cho tòa N04",
-  "position": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
-  "management_board": {
-    "organization": "Ban QLDA Berriver Long Biên",
-    "members": [
-      {
-        "name": null,
-        "title": "Cán bộ Ban quản lý dự án"
-      },
-      {
-        "name": null,
-        "title": null
-      }
-    ]
+[
+  {
+    "project": "Xây dựng khu nhà ở cao tầng để bán (Berriver)",
+    "package": "Cung cấp và thi công hệ thống cơ điện cho tòa N04",
+    "location": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
+    "work": "Cung cấp và thi công hệ thống cơ điện cho tòa N04",
+    "position": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
+    "management_board": {
+      "organization": "Ban QLDA Berriver Long Biên",
+      "members": [
+        { "name": null, "title": "Cán bộ Ban quản lý dự án" },
+        { "name": null, "title": null }
+      ]
+    },
+    "supervision_consultant": {
+      "organization": "Tư vấn giám sát",
+      "members": [
+        { "name": null, "title": "Cán bộ TVGS" },
+        { "name": null, "title": null }
+      ]
+    },
+    "contractor": {
+      "organization": "Công ty Cổ phần đầu tư xây dựng và chuyển giao CN Thành Đoàn",
+      "members": [
+        { "name": "Vũ Duy Quyền", "title": "Chỉ huy trưởng" }
+      ]
+    },
+    "acceptance_time": null,
+    "acceptance_location": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
+    "contractor_names": ["Vũ Duy Quyền"],
+    "supervision_names": [null],
+    "management_board_names": [null],
+    "date": null,
+    "report_number": null
   },
-  "supervision_consultant": {
-    "organization": "Tư vấn giám sát",
-    "members": [
-      {
-        "name": null,
-        "title": "Cán bộ TVGS"
-      },
-      {
-        "name": null,
-        "title": null
-      }
-    ]
+  {
+    "project": "Nhà máy sản xuất linh kiện điện tử Bắc Ninh",
+    "package": "Thi công hệ thống phòng cháy chữa cháy",
+    "location": "KCN Yên Phong, Bắc Ninh",
+    "work": "Lắp đặt hệ thống PCCC toàn nhà xưởng",
+    "position": "KCN Yên Phong, Bắc Ninh",
+    "management_board": {
+      "organization": "Ban QLDA Bắc Ninh",
+      "members": [
+        { "name": "Nguyễn Văn An", "title": "Trưởng ban QLDA" },
+        { "name": null, "title": "Cán bộ kỹ thuật" }
+      ]
+    },
+    "supervision_consultant": {
+      "organization": "Công ty TVGS An Toàn",
+      "members": [
+        { "name": "Trần Thị Hoa", "title": "Giám sát trưởng" }
+      ]
+    },
+    "contractor": {
+      "organization": "Công ty TNHH Xây dựng Minh Phát",
+      "members": [
+        { "name": "Phạm Văn Cường", "title": "Chỉ huy trưởng" }
+      ]
+    },
+    "acceptance_time": "2024-05-10",
+    "acceptance_location": "KCN Yên Phong, Bắc Ninh",
+    "contractor_names": ["Phạm Văn Cường"],
+    "supervision_names": ["Trần Thị Hoa"],
+    "management_board_names": ["Nguyễn Văn An"],
+    "date": "2024-05-10",
+    "report_number": "BN-2024-05"
   },
-  "contractor": {
-    "organization": "Công ty Cổ phần đầu tư xây dựng và chuyển giao CN Thành Đoàn",
-    "members": [
-      {
-        "name": "Vũ Duy Quyền",
-        "title": "Chỉ huy trưởng"
-      }
-    ]
+  {
+    "project": "Cải tạo trụ sở UBND Quận 1",
+    "package": "Thi công cải tạo hệ thống điện và nước",
+    "location": "Quận 1, TP. Hồ Chí Minh",
+    "work": "Thay mới hệ thống điện, cấp thoát nước",
+    "position": "Quận 1, TP. Hồ Chí Minh",
+    "management_board": {
+      "organization": "Ban QLDA Hạ tầng TP.HCM",
+      "members": [
+        { "name": "Lê Quang Huy", "title": "Phó ban QLDA" }
+      ]
+    },
+    "supervision_consultant": {
+      "organization": "Công ty Tư vấn Hạ tầng",
+      "members": [
+        { "name": "Nguyễn Thị Lan", "title": "Kỹ sư giám sát" }
+      ]
+    },
+    "contractor": {
+      "organization": "Công ty CP Cơ điện Miền Nam",
+      "members": [
+        { "name": "Đỗ Văn Minh", "title": "Chỉ huy trưởng" }
+      ]
+    },
+    "acceptance_time": "2024-06-20",
+    "acceptance_location": "Quận 1, TP. Hồ Chí Minh",
+    "contractor_names": ["Đỗ Văn Minh"],
+    "supervision_names": ["Nguyễn Thị Lan"],
+    "management_board_names": ["Lê Quang Huy"],
+    "date": "2024-06-20",
+    "report_number": "HCM-2024-06"
   },
-  "acceptance_time": null,
-  "acceptance_location": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
-  "contractor_names": [
-    "Vũ Duy Quyền"
-  ],
-  "supervision_names": [
-    null
-  ],
-  "management_board_names": [
-    null
-  ],
-  "date": null,
-  "report_number": null
-}
+  {
+    "project": "Xây dựng cầu dân sinh Tuyên Quang",
+    "package": "Thi công cầu và đường dẫn",
+    "location": "Huyện Chiêm Hóa, Tuyên Quang",
+    "work": "Xây dựng cầu dân sinh bắc qua sông Gâm",
+    "position": "Huyện Chiêm Hóa, Tuyên Quang",
+    "management_board": {
+      "organization": "Sở GTVT Tuyên Quang",
+      "members": [
+        { "name": "Nguyễn Văn Bình", "title": "Giám đốc QLDA" }
+      ]
+    },
+    "supervision_consultant": {
+      "organization": "Công ty TVGS Giao thông",
+      "members": [
+        { "name": "Hoàng Văn Tuấn", "title": "Chuyên viên giám sát" }
+      ]
+    },
+    "contractor": {
+      "organization": "Công ty CP Xây dựng 873",
+      "members": [
+        { "name": "Nguyễn Quốc Việt", "title": "Chỉ huy trưởng" }
+      ]
+    },
+    "acceptance_time": "2024-07-15",
+    "acceptance_location": "Huyện Chiêm Hóa, Tuyên Quang",
+    "contractor_names": ["Nguyễn Quốc Việt"],
+    "supervision_names": ["Hoàng Văn Tuấn"],
+    "management_board_names": ["Nguyễn Văn Bình"],
+    "date": "2024-07-15",
+    "report_number": "TQ-2024-07"
+  },
+  {
+    "project": "Nhà ga Metro Bến Thành – Suối Tiên",
+    "package": "Lắp đặt hệ thống thông gió và chiếu sáng",
+    "location": "TP. Thủ Đức, TP. Hồ Chí Minh",
+    "work": "Thi công hệ thống thông gió, chiếu sáng toàn bộ nhà ga",
+    "position": "TP. Thủ Đức, TP. Hồ Chí Minh",
+    "management_board": {
+      "organization": "Ban QLDA Đường sắt đô thị TP.HCM",
+      "members": [
+        { "name": "Phạm Thanh Tùng", "title": "Giám đốc Ban QLDA" }
+      ]
+    },
+    "supervision_consultant": {
+      "organization": "Công ty TNHH Tư vấn Nhật Bản",
+      "members": [
+        { "name": "Sato Kenji", "title": "Kỹ sư trưởng giám sát" }
+      ]
+    },
+    "contractor": {
+      "organization": "Liên danh Cienco 6 – Hitachi",
+      "members": [
+        { "name": "Nguyễn Văn Nam", "title": "Chỉ huy trưởng" }
+      ]
+    },
+    "acceptance_time": "2024-08-01",
+    "acceptance_location": "TP. Thủ Đức, TP. Hồ Chí Minh",
+    "contractor_names": ["Nguyễn Văn Nam"],
+    "supervision_names": ["Sato Kenji"],
+    "management_board_names": ["Phạm Thanh Tùng"],
+    "date": "2024-08-01",
+    "report_number": "HCM-Metro-08"
+  },
+  {
+    "project": "Trường Tiểu học Kim Liên mở rộng",
+    "package": "Xây dựng khối lớp học mới và nhà đa năng",
+    "location": "Đống Đa, Hà Nội",
+    "work": "Xây dựng tòa nhà 5 tầng và nhà đa năng",
+    "position": "Đống Đa, Hà Nội",
+    "management_board": {
+      "organization": "Ban QLDA Quận Đống Đa",
+      "members": [
+        { "name": "Nguyễn Thu Hằng", "title": "Trưởng ban QLDA" }
+      ]
+    },
+    "supervision_consultant": {
+      "organization": "Công ty CP Tư vấn Xây dựng Hà Nội",
+      "members": [
+        { "name": "Trần Văn Hải", "title": "Kỹ sư giám sát" }
+      ]
+    },
+    "contractor": {
+      "organization": "Công ty CP Xây dựng số 5 Hà Nội",
+      "members": [
+        { "name": "Lê Văn Dũng", "title": "Chỉ huy trưởng" }
+      ]
+    },
+    "acceptance_time": "2024-09-05",
+    "acceptance_location": "Đống Đa, Hà Nội",
+    "contractor_names": ["Lê Văn Dũng"],
+    "supervision_names": ["Trần Văn Hải"],
+    "management_board_names": ["Nguyễn Thu Hằng"],
+    "date": "2024-09-05",
+    "report_number": "HN-KL-2024-09"
+  }
+]
