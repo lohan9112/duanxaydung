@@ -1,0 +1,55 @@
+{
+  "project": "Xây dựng khu nhà ở cao tầng để bán (Berriver)",
+  "package": "Cung cấp và thi công hệ thống cơ điện cho tòa N04",
+  "location": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
+  "work": "Cung cấp và thi công hệ thống cơ điện cho tòa N04",
+  "position": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
+  "management_board": {
+    "organization": "Ban QLDA Berriver Long Biên",
+    "members": [
+      {
+        "name": null,
+        "title": "Cán bộ Ban quản lý dự án"
+      },
+      {
+        "name": null,
+        "title": null
+      }
+    ]
+  },
+  "supervision_consultant": {
+    "organization": "Tư vấn giám sát",
+    "members": [
+      {
+        "name": null,
+        "title": "Cán bộ TVGS"
+      },
+      {
+        "name": null,
+        "title": null
+      }
+    ]
+  },
+  "contractor": {
+    "organization": "Công ty Cổ phần đầu tư xây dựng và chuyển giao CN Thành Đoàn",
+    "members": [
+      {
+        "name": "Vũ Duy Quyền",
+        "title": "Chỉ huy trưởng"
+      }
+    ]
+  },
+  "acceptance_time": null,
+  "acceptance_location": "Phường Bồ Đề, Quận Long Biên, TP. Hà Nội",
+  "contractor_names": [
+    "Vũ Duy Quyền"
+  ],
+  "supervision_names": [
+    null
+  ],
+  "management_board_names": [
+    null
+  ],
+  "date": null,
+  "report_number": null
+}
