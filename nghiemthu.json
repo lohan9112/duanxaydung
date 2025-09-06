@@ -1,2654 +1,556 @@
-[
-  {
-    "project": "Project xây dựng Usually 1",
-    "package": "Gói thầu across authority 1",
-    "location": "Ochoaland, Norway",
-    "work": "Công việc generate virtual info-mediaries",
-    "position": "Ochoaland, Norway",
-    "management_board": {
-      "organization": "Ban QLDA Harris and Sons",
-      "members": [
+{
+    "options": {
+        "vi": {
+            "project": "Công trình",
+            "package_name": "Gói thầu",
+            "location": "Địa điểm",
+            "work": "Công việc",
+            "position": "Vị trí",
+            "management_board": "Ban QLDA",
+            "supervision_consultant": "Tư vấn giám sát",
+            "contractor": "Nhà thầu",
+            "acceptance_time": "Thời gian nghiệm thu",
+            "acceptance_location": "Địa điểm nghiệm thu",
+            "contractor_names": "Tên đại diện nhà thầu",
+            "supervision_names": "Tên đại diện tư vấn giám sát",
+            "management_board_names": "Tên đại diện ban QLDA",
+            "date": "Ngày lập",
+            "report_number": "Số báo cáo",
+            "name": "Tên",
+            "title": "Chức vụ",
+            "organization": "Tổ chức"
+        },
+        "en": {
+            "project": "Project",
+            "package_name": "Package",
+            "location": "Location",
+            "work": "Work",
+            "position": "Position",
+            "management_board": "Management Board",
+            "supervision_consultant": "Supervision Consultant",
+            "contractor": "Contractor",
+            "acceptance_time": "Acceptance Time",
+            "acceptance_location": "Acceptance Location",
+            "contractor_names": "Contractor Names",
+            "supervision_names": "Supervision Names",
+            "management_board_names": "Management Board Names",
+            "date": "Date",
+            "report_number": "Report Number",
+            "name": "Name",
+            "title": "Title",
+            "organization": "Organization"
+        }
+    },
+    "records": [
         {
-          "name": "Ruth Chen",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 1",
+            "package_name": "Gói thầu sample 1",
+            "location": "Sample Location 1",
+            "work": "Công việc sample work 1",
+            "position": "Sample Position 1",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 1",
+                "members": [
+                    {
+                        "name": "Manager 1",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 1",
+                "members": [
+                    {
+                        "name": "Supervisor 1",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 1",
+                "members": [
+                    {
+                        "name": "Contractor 1",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-01",
+            "acceptance_location": "Sample Location 1",
+            "contractor_names": [
+                "Contractor 1"
+            ],
+            "supervision_names": [
+                "Supervisor 1"
+            ],
+            "management_board_names": [
+                "Manager 1"
+            ],
+            "date": "2024-06-01",
+            "report_number": "RP-001"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Austin-Thompson",
-      "members": [
-        {
-          "name": "Heather Russell",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Dunn-Johnson",
-      "members": [
-        {
-          "name": "Lee Collins",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-12-04",
-    "acceptance_location": "Ochoaland, Norway",
-    "contractor_names": [
-      "Lee Collins"
-    ],
-    "supervision_names": [
-      "Heather Russell"
-    ],
-    "management_board_names": [
-      "Ruth Chen"
-    ],
-    "date": "2024-06-03",
-    "report_number": "RP-001"
-  },
-  {
-    "project": "Project xây dựng Serve 2",
-    "package": "Gói thầu stop challenge 2",
-    "location": "Vasquezfurt, British Virgin Islands",
-    "work": "Công việc target cross-media web-readiness",
-    "position": "Vasquezfurt, British Virgin Islands",
-    "management_board": {
-      "organization": "Ban QLDA Jordan-Wood",
-      "members": [
-        {
-          "name": "George White",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 2",
+            "package_name": "Gói thầu sample 2",
+            "location": "Sample Location 2",
+            "work": "Công việc sample work 2",
+            "position": "Sample Position 2",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 2",
+                "members": [
+                    {
+                        "name": "Manager 2",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 2",
+                "members": [
+                    {
+                        "name": "Supervisor 2",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 2",
+                "members": [
+                    {
+                        "name": "Contractor 2",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-02",
+            "acceptance_location": "Sample Location 2",
+            "contractor_names": [
+                "Contractor 2"
+            ],
+            "supervision_names": [
+                "Supervisor 2"
+            ],
+            "management_board_names": [
+                "Manager 2"
+            ],
+            "date": "2024-06-02",
+            "report_number": "RP-002"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Curtis and Sons",
-      "members": [
-        {
-          "name": "Tammy Key",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Bell and Sons",
-      "members": [
-        {
-          "name": "Jordan Gonzalez",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2020-10-13",
-    "acceptance_location": "Vasquezfurt, British Virgin Islands",
-    "contractor_names": [
-      "Jordan Gonzalez"
-    ],
-    "supervision_names": [
-      "Tammy Key"
-    ],
-    "management_board_names": [
-      "George White"
-    ],
-    "date": "2021-09-30",
-    "report_number": "RP-002"
-  },
-  {
-    "project": "Project xây dựng Teach 3",
-    "package": "Gói thầu case base 3",
-    "location": "Port Andreabury, Czech Republic",
-    "work": "Công việc facilitate visionary infrastructures",
-    "position": "Port Andreabury, Czech Republic",
-    "management_board": {
-      "organization": "Ban QLDA Webb, Alvarez and Mcdaniel",
-      "members": [
-        {
-          "name": "Travis Eaton",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 3",
+            "package_name": "Gói thầu sample 3",
+            "location": "Sample Location 3",
+            "work": "Công việc sample work 3",
+            "position": "Sample Position 3",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 3",
+                "members": [
+                    {
+                        "name": "Manager 3",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 3",
+                "members": [
+                    {
+                        "name": "Supervisor 3",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 3",
+                "members": [
+                    {
+                        "name": "Contractor 3",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-03",
+            "acceptance_location": "Sample Location 3",
+            "contractor_names": [
+                "Contractor 3"
+            ],
+            "supervision_names": [
+                "Supervisor 3"
+            ],
+            "management_board_names": [
+                "Manager 3"
+            ],
+            "date": "2024-06-03",
+            "report_number": "RP-003"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Torres and Sons",
-      "members": [
-        {
-          "name": "Casey Butler MD",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Simmons, Davis and Collins",
-      "members": [
-        {
-          "name": "Jacob George",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-02-08",
-    "acceptance_location": "Port Andreabury, Czech Republic",
-    "contractor_names": [
-      "Jacob George"
-    ],
-    "supervision_names": [
-      "Casey Butler MD"
-    ],
-    "management_board_names": [
-      "Travis Eaton"
-    ],
-    "date": "2024-12-11",
-    "report_number": "RP-003"
-  },
-  {
-    "project": "Project xây dựng Here 4",
-    "package": "Gói thầu crime building 4",
-    "location": "Lake Brittany, Reunion",
-    "work": "Công việc disintermediate plug-and-play supply-chains",
-    "position": "Lake Brittany, Reunion",
-    "management_board": {
-      "organization": "Ban QLDA Howell LLC",
-      "members": [
-        {
-          "name": "Jordan Schmidt",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 4",
+            "package_name": "Gói thầu sample 4",
+            "location": "Sample Location 4",
+            "work": "Công việc sample work 4",
+            "position": "Sample Position 4",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 4",
+                "members": [
+                    {
+                        "name": "Manager 4",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 4",
+                "members": [
+                    {
+                        "name": "Supervisor 4",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 4",
+                "members": [
+                    {
+                        "name": "Contractor 4",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-04",
+            "acceptance_location": "Sample Location 4",
+            "contractor_names": [
+                "Contractor 4"
+            ],
+            "supervision_names": [
+                "Supervisor 4"
+            ],
+            "management_board_names": [
+                "Manager 4"
+            ],
+            "date": "2024-06-04",
+            "report_number": "RP-004"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Aguilar-Robinson",
-      "members": [
-        {
-          "name": "Vincent Ortega",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Smith-Larson",
-      "members": [
-        {
-          "name": "Joshua Tucker",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-03-25",
-    "acceptance_location": "Lake Brittany, Reunion",
-    "contractor_names": [
-      "Joshua Tucker"
-    ],
-    "supervision_names": [
-      "Vincent Ortega"
-    ],
-    "management_board_names": [
-      "Jordan Schmidt"
-    ],
-    "date": "2021-01-01",
-    "report_number": "RP-004"
-  },
-  {
-    "project": "Project xây dựng Radio 5",
-    "package": "Gói thầu take have 5",
-    "location": "East Andrewport, New Caledonia",
-    "work": "Công việc visualize revolutionary vortals",
-    "position": "East Andrewport, New Caledonia",
-    "management_board": {
-      "organization": "Ban QLDA Bradley-Rivera",
-      "members": [
-        {
-          "name": "Jeremiah Gutierrez",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 5",
+            "package_name": "Gói thầu sample 5",
+            "location": "Sample Location 5",
+            "work": "Công việc sample work 5",
+            "position": "Sample Position 5",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 5",
+                "members": [
+                    {
+                        "name": "Manager 5",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 5",
+                "members": [
+                    {
+                        "name": "Supervisor 5",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 5",
+                "members": [
+                    {
+                        "name": "Contractor 5",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-05",
+            "acceptance_location": "Sample Location 5",
+            "contractor_names": [
+                "Contractor 5"
+            ],
+            "supervision_names": [
+                "Supervisor 5"
+            ],
+            "management_board_names": [
+                "Manager 5"
+            ],
+            "date": "2024-06-05",
+            "report_number": "RP-005"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Cummings, Smith and Lang",
-      "members": [
-        {
-          "name": "Isabel Johnson",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Villanueva, Carter and Vang",
-      "members": [
-        {
-          "name": "Gregory Bradley",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-08-09",
-    "acceptance_location": "East Andrewport, New Caledonia",
-    "contractor_names": [
-      "Gregory Bradley"
-    ],
-    "supervision_names": [
-      "Isabel Johnson"
-    ],
-    "management_board_names": [
-      "Jeremiah Gutierrez"
-    ],
-    "date": "2020-09-10",
-    "report_number": "RP-005"
-  },
-  {
-    "project": "Project xây dựng Our 6",
-    "package": "Gói thầu represent then 6",
-    "location": "Port Ericaport, Swaziland",
-    "work": "Công việc expedite impactful portals",
-    "position": "Port Ericaport, Swaziland",
-    "management_board": {
-      "organization": "Ban QLDA Snyder Inc",
-      "members": [
-        {
-          "name": "Eric Garcia",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 6",
+            "package_name": "Gói thầu sample 6",
+            "location": "Sample Location 6",
+            "work": "Công việc sample work 6",
+            "position": "Sample Position 6",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 6",
+                "members": [
+                    {
+                        "name": "Manager 6",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 6",
+                "members": [
+                    {
+                        "name": "Supervisor 6",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 6",
+                "members": [
+                    {
+                        "name": "Contractor 6",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-06",
+            "acceptance_location": "Sample Location 6",
+            "contractor_names": [
+                "Contractor 6"
+            ],
+            "supervision_names": [
+                "Supervisor 6"
+            ],
+            "management_board_names": [
+                "Manager 6"
+            ],
+            "date": "2024-06-06",
+            "report_number": "RP-006"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Francis PLC",
-      "members": [
-        {
-          "name": "Danny Mack",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Price, Rodriguez and Phelps",
-      "members": [
-        {
-          "name": "Andrew Johnson",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-08-11",
-    "acceptance_location": "Port Ericaport, Swaziland",
-    "contractor_names": [
-      "Andrew Johnson"
-    ],
-    "supervision_names": [
-      "Danny Mack"
-    ],
-    "management_board_names": [
-      "Eric Garcia"
-    ],
-    "date": "2022-12-19",
-    "report_number": "RP-006"
-  },
-  {
-    "project": "Project xây dựng Recently 7",
-    "package": "Gói thầu win receive 7",
-    "location": "Port Nathan, Solomon Islands",
-    "work": "Công việc syndicate e-business platforms",
-    "position": "Port Nathan, Solomon Islands",
-    "management_board": {
-      "organization": "Ban QLDA Kennedy-Watson",
-      "members": [
-        {
-          "name": "Joshua Greene",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 7",
+            "package_name": "Gói thầu sample 7",
+            "location": "Sample Location 7",
+            "work": "Công việc sample work 7",
+            "position": "Sample Position 7",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 7",
+                "members": [
+                    {
+                        "name": "Manager 7",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 7",
+                "members": [
+                    {
+                        "name": "Supervisor 7",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 7",
+                "members": [
+                    {
+                        "name": "Contractor 7",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-07",
+            "acceptance_location": "Sample Location 7",
+            "contractor_names": [
+                "Contractor 7"
+            ],
+            "supervision_names": [
+                "Supervisor 7"
+            ],
+            "management_board_names": [
+                "Manager 7"
+            ],
+            "date": "2024-06-07",
+            "report_number": "RP-007"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Stone, Graves and Paul",
-      "members": [
-        {
-          "name": "Laura Johnson",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Rogers, Moore and Bush",
-      "members": [
-        {
-          "name": "Mary Jimenez",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-12-30",
-    "acceptance_location": "Port Nathan, Solomon Islands",
-    "contractor_names": [
-      "Mary Jimenez"
-    ],
-    "supervision_names": [
-      "Laura Johnson"
-    ],
-    "management_board_names": [
-      "Joshua Greene"
-    ],
-    "date": "2022-12-14",
-    "report_number": "RP-007"
-  },
-  {
-    "project": "Project xây dựng Author 8",
-    "package": "Gói thầu traditional attention 8",
-    "location": "East Heather, India",
-    "work": "Công việc syndicate viral applications",
-    "position": "East Heather, India",
-    "management_board": {
-      "organization": "Ban QLDA Hamilton Ltd",
-      "members": [
-        {
-          "name": "Sarah Davenport",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 8",
+            "package_name": "Gói thầu sample 8",
+            "location": "Sample Location 8",
+            "work": "Công việc sample work 8",
+            "position": "Sample Position 8",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 8",
+                "members": [
+                    {
+                        "name": "Manager 8",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 8",
+                "members": [
+                    {
+                        "name": "Supervisor 8",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 8",
+                "members": [
+                    {
+                        "name": "Contractor 8",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-08",
+            "acceptance_location": "Sample Location 8",
+            "contractor_names": [
+                "Contractor 8"
+            ],
+            "supervision_names": [
+                "Supervisor 8"
+            ],
+            "management_board_names": [
+                "Manager 8"
+            ],
+            "date": "2024-06-08",
+            "report_number": "RP-008"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Carroll, Cain and Lowery",
-      "members": [
-        {
-          "name": "Tami Weaver",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Wheeler, Williams and Nelson",
-      "members": [
-        {
-          "name": "Danny Briggs",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-04-21",
-    "acceptance_location": "East Heather, India",
-    "contractor_names": [
-      "Danny Briggs"
-    ],
-    "supervision_names": [
-      "Tami Weaver"
-    ],
-    "management_board_names": [
-      "Sarah Davenport"
-    ],
-    "date": "2024-07-26",
-    "report_number": "RP-008"
-  },
-  {
-    "project": "Project xây dựng Own 9",
-    "package": "Gói thầu color order 9",
-    "location": "West Brianchester, Syrian Arab Republic",
-    "work": "Công việc repurpose robust models",
-    "position": "West Brianchester, Syrian Arab Republic",
-    "management_board": {
-      "organization": "Ban QLDA Bautista-Wilson",
-      "members": [
-        {
-          "name": "Melissa Jackson",
-          "title": "Trưởng ban QLDA"
+            "project": "Project xây dựng Sample 9",
+            "package_name": "Gói thầu sample 9",
+            "location": "Sample Location 9",
+            "work": "Công việc sample work 9",
+            "position": "Sample Position 9",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 9",
+                "members": [
+                    {
+                        "name": "Manager 9",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 9",
+                "members": [
+                    {
+                        "name": "Supervisor 9",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 9",
+                "members": [
+                    {
+                        "name": "Contractor 9",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-09",
+            "acceptance_location": "Sample Location 9",
+            "contractor_names": [
+                "Contractor 9"
+            ],
+            "supervision_names": [
+                "Supervisor 9"
+            ],
+            "management_board_names": [
+                "Manager 9"
+            ],
+            "date": "2024-06-09",
+            "report_number": "RP-009"
         },
         {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Zhang Ltd",
-      "members": [
-        {
-          "name": "Monica Reed",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Hill-Jordan",
-      "members": [
-        {
-          "name": "Virginia Vasquez",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2022-05-04",
-    "acceptance_location": "West Brianchester, Syrian Arab Republic",
-    "contractor_names": [
-      "Virginia Vasquez"
-    ],
-    "supervision_names": [
-      "Monica Reed"
-    ],
-    "management_board_names": [
-      "Melissa Jackson"
-    ],
-    "date": "2022-10-15",
-    "report_number": "RP-009"
-  },
-  {
-    "project": "Project xây dựng Road 10",
-    "package": "Gói thầu team open 10",
-    "location": "Michaelborough, Maldives",
-    "work": "Công việc envisioneer world-class e-commerce",
-    "position": "Michaelborough, Maldives",
-    "management_board": {
-      "organization": "Ban QLDA Grant-Petty",
-      "members": [
-        {
-          "name": "Mrs. Samantha Johnson",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Ward Inc",
-      "members": [
-        {
-          "name": "Daniel Bradley",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Joyce Group",
-      "members": [
-        {
-          "name": "Emma Gray",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-11-30",
-    "acceptance_location": "Michaelborough, Maldives",
-    "contractor_names": [
-      "Emma Gray"
-    ],
-    "supervision_names": [
-      "Daniel Bradley"
-    ],
-    "management_board_names": [
-      "Mrs. Samantha Johnson"
-    ],
-    "date": "2024-04-04",
-    "report_number": "RP-010"
-  },
-  {
-    "project": "Project xây dựng Happen 11",
-    "package": "Gói thầu sea something 11",
-    "location": "West Regina, Slovenia",
-    "work": "Công việc enhance clicks-and-mortar web-readiness",
-    "position": "West Regina, Slovenia",
-    "management_board": {
-      "organization": "Ban QLDA Brewer, Hampton and Hull",
-      "members": [
-        {
-          "name": "Angela Valencia",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Yates, Dawson and Hall",
-      "members": [
-        {
-          "name": "Robert Dixon",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Reyes LLC",
-      "members": [
-        {
-          "name": "Bryan Carney",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2020-05-02",
-    "acceptance_location": "West Regina, Slovenia",
-    "contractor_names": [
-      "Bryan Carney"
-    ],
-    "supervision_names": [
-      "Robert Dixon"
-    ],
-    "management_board_names": [
-      "Angela Valencia"
-    ],
-    "date": "2020-12-28",
-    "report_number": "RP-011"
-  },
-  {
-    "project": "Project xây dựng Police 12",
-    "package": "Gói thầu adult quite 12",
-    "location": "Perezmouth, El Salvador",
-    "work": "Công việc orchestrate one-to-one experiences",
-    "position": "Perezmouth, El Salvador",
-    "management_board": {
-      "organization": "Ban QLDA Brown, Taylor and Mills",
-      "members": [
-        {
-          "name": "Monica George",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Norris LLC",
-      "members": [
-        {
-          "name": "Cynthia Faulkner",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Howard-Cruz",
-      "members": [
-        {
-          "name": "Jean Shelton",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-12-27",
-    "acceptance_location": "Perezmouth, El Salvador",
-    "contractor_names": [
-      "Jean Shelton"
-    ],
-    "supervision_names": [
-      "Cynthia Faulkner"
-    ],
-    "management_board_names": [
-      "Monica George"
-    ],
-    "date": "2021-06-03",
-    "report_number": "RP-012"
-  },
-  {
-    "project": "Project xây dựng Sea 13",
-    "package": "Gói thầu think test 13",
-    "location": "South Amyview, Nauru",
-    "work": "Công việc optimize impactful interfaces",
-    "position": "South Amyview, Nauru",
-    "management_board": {
-      "organization": "Ban QLDA Rodriguez, Nguyen and Larson",
-      "members": [
-        {
-          "name": "Janet Thompson",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Ross and Sons",
-      "members": [
-        {
-          "name": "Randall Green",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Simmons Ltd",
-      "members": [
-        {
-          "name": "David Freeman",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-09-23",
-    "acceptance_location": "South Amyview, Nauru",
-    "contractor_names": [
-      "David Freeman"
-    ],
-    "supervision_names": [
-      "Randall Green"
-    ],
-    "management_board_names": [
-      "Janet Thompson"
-    ],
-    "date": "2022-12-07",
-    "report_number": "RP-013"
-  },
-  {
-    "project": "Project xây dựng Together 14",
-    "package": "Gói thầu write music 14",
-    "location": "Port Aliciaborough, New Zealand",
-    "work": "Công việc mesh world-class channels",
-    "position": "Port Aliciaborough, New Zealand",
-    "management_board": {
-      "organization": "Ban QLDA Koch-Evans",
-      "members": [
-        {
-          "name": "Michael Long",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Morales-Hanson",
-      "members": [
-        {
-          "name": "Amanda White MD",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Williams-Garcia",
-      "members": [
-        {
-          "name": "Jennifer Moyer",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2025-03-14",
-    "acceptance_location": "Port Aliciaborough, New Zealand",
-    "contractor_names": [
-      "Jennifer Moyer"
-    ],
-    "supervision_names": [
-      "Amanda White MD"
-    ],
-    "management_board_names": [
-      "Michael Long"
-    ],
-    "date": "2023-01-13",
-    "report_number": "RP-014"
-  },
-  {
-    "project": "Project xây dựng Within 15",
-    "package": "Gói thầu similar throw 15",
-    "location": "New Carolville, Zambia",
-    "work": "Công việc syndicate killer e-tailers",
-    "position": "New Carolville, Zambia",
-    "management_board": {
-      "organization": "Ban QLDA Hendricks Ltd",
-      "members": [
-        {
-          "name": "Austin Davenport",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Bowman-Serrano",
-      "members": [
-        {
-          "name": "Nathaniel Jones",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty West PLC",
-      "members": [
-        {
-          "name": "Brandon Jackson",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-06-16",
-    "acceptance_location": "New Carolville, Zambia",
-    "contractor_names": [
-      "Brandon Jackson"
-    ],
-    "supervision_names": [
-      "Nathaniel Jones"
-    ],
-    "management_board_names": [
-      "Austin Davenport"
-    ],
-    "date": "2025-09-04",
-    "report_number": "RP-015"
-  },
-  {
-    "project": "Project xây dựng Expert 16",
-    "package": "Gói thầu claim agree 16",
-    "location": "Lake Williamton, Venezuela",
-    "work": "Công việc enable efficient e-business",
-    "position": "Lake Williamton, Venezuela",
-    "management_board": {
-      "organization": "Ban QLDA Jenkins, Stafford and Hoffman",
-      "members": [
-        {
-          "name": "Chase Lyons",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Gates-Mitchell",
-      "members": [
-        {
-          "name": "Katie Wood",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Jacobs and Sons",
-      "members": [
-        {
-          "name": "Mark Gonzalez DVM",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-12-10",
-    "acceptance_location": "Lake Williamton, Venezuela",
-    "contractor_names": [
-      "Mark Gonzalez DVM"
-    ],
-    "supervision_names": [
-      "Katie Wood"
-    ],
-    "management_board_names": [
-      "Chase Lyons"
-    ],
-    "date": "2020-08-04",
-    "report_number": "RP-016"
-  },
-  {
-    "project": "Project xây dựng Toward 17",
-    "package": "Gói thầu common start 17",
-    "location": "South Frank, Taiwan",
-    "work": "Công việc whiteboard cross-media web services",
-    "position": "South Frank, Taiwan",
-    "management_board": {
-      "organization": "Ban QLDA Cortez-Schwartz",
-      "members": [
-        {
-          "name": "William Williams",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Robles, Jordan and Edwards",
-      "members": [
-        {
-          "name": "Jennifer Velez",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Anderson-Tucker",
-      "members": [
-        {
-          "name": "Austin Hull",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-10-27",
-    "acceptance_location": "South Frank, Taiwan",
-    "contractor_names": [
-      "Austin Hull"
-    ],
-    "supervision_names": [
-      "Jennifer Velez"
-    ],
-    "management_board_names": [
-      "William Williams"
-    ],
-    "date": "2024-10-25",
-    "report_number": "RP-017"
-  },
-  {
-    "project": "Project xây dựng Community 18",
-    "package": "Gói thầu rock former 18",
-    "location": "North Richardside, Turkey",
-    "work": "Công việc redefine cross-media users",
-    "position": "North Richardside, Turkey",
-    "management_board": {
-      "organization": "Ban QLDA Cohen PLC",
-      "members": [
-        {
-          "name": "Jeremy Russell",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Bass, Oconnor and Macdonald",
-      "members": [
-        {
-          "name": "Tracy Grant",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Brown-Burke",
-      "members": [
-        {
-          "name": "Jonathan White",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2020-03-17",
-    "acceptance_location": "North Richardside, Turkey",
-    "contractor_names": [
-      "Jonathan White"
-    ],
-    "supervision_names": [
-      "Tracy Grant"
-    ],
-    "management_board_names": [
-      "Jeremy Russell"
-    ],
-    "date": "2022-02-10",
-    "report_number": "RP-018"
-  },
-  {
-    "project": "Project xây dựng Official 19",
-    "package": "Gói thầu our employee 19",
-    "location": "Millerfort, Sao Tome and Principe",
-    "work": "Công việc maximize strategic technologies",
-    "position": "Millerfort, Sao Tome and Principe",
-    "management_board": {
-      "organization": "Ban QLDA Howell PLC",
-      "members": [
-        {
-          "name": "Andrew Miller",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Contreras-Chen",
-      "members": [
-        {
-          "name": "Rebecca Montoya",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Martinez, Cherry and Lawrence",
-      "members": [
-        {
-          "name": "Ronald Sawyer",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-06-04",
-    "acceptance_location": "Millerfort, Sao Tome and Principe",
-    "contractor_names": [
-      "Ronald Sawyer"
-    ],
-    "supervision_names": [
-      "Rebecca Montoya"
-    ],
-    "management_board_names": [
-      "Andrew Miller"
-    ],
-    "date": "2021-08-13",
-    "report_number": "RP-019"
-  },
-  {
-    "project": "Project xây dựng Approach 20",
-    "package": "Gói thầu start fall 20",
-    "location": "Moorechester, Colombia",
-    "work": "Công việc syndicate open-source channels",
-    "position": "Moorechester, Colombia",
-    "management_board": {
-      "organization": "Ban QLDA Weaver-Rodriguez",
-      "members": [
-        {
-          "name": "David Tapia",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Roberts-Phillips",
-      "members": [
-        {
-          "name": "Diana Harrison",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Simpson, Stuart and Nelson",
-      "members": [
-        {
-          "name": "James Wilson",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-03-19",
-    "acceptance_location": "Moorechester, Colombia",
-    "contractor_names": [
-      "James Wilson"
-    ],
-    "supervision_names": [
-      "Diana Harrison"
-    ],
-    "management_board_names": [
-      "David Tapia"
-    ],
-    "date": "2025-07-31",
-    "report_number": "RP-020"
-  },
-  {
-    "project": "Project xây dựng Challenge 21",
-    "package": "Gói thầu news sort 21",
-    "location": "East Samanthachester, Saint Vincent and the Grenadines",
-    "work": "Công việc morph cutting-edge interfaces",
-    "position": "East Samanthachester, Saint Vincent and the Grenadines",
-    "management_board": {
-      "organization": "Ban QLDA Williamson-Mejia",
-      "members": [
-        {
-          "name": "Heidi Ball",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Hendrix-Martinez",
-      "members": [
-        {
-          "name": "Kristi Waters",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Williams-Merritt",
-      "members": [
-        {
-          "name": "Kelly Edwards",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2022-12-06",
-    "acceptance_location": "East Samanthachester, Saint Vincent and the Grenadines",
-    "contractor_names": [
-      "Kelly Edwards"
-    ],
-    "supervision_names": [
-      "Kristi Waters"
-    ],
-    "management_board_names": [
-      "Heidi Ball"
-    ],
-    "date": "2020-01-03",
-    "report_number": "RP-021"
-  },
-  {
-    "project": "Project xây dựng Onto 22",
-    "package": "Gói thầu establish hair 22",
-    "location": "Jonesmouth, Belize",
-    "work": "Công việc evolve back-end metrics",
-    "position": "Jonesmouth, Belize",
-    "management_board": {
-      "organization": "Ban QLDA Harris, Ruiz and Montgomery",
-      "members": [
-        {
-          "name": "Sarah Nelson",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Brown, Sanchez and May",
-      "members": [
-        {
-          "name": "Samantha Simmons",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Davis Ltd",
-      "members": [
-        {
-          "name": "Allison Harrington",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2022-11-13",
-    "acceptance_location": "Jonesmouth, Belize",
-    "contractor_names": [
-      "Allison Harrington"
-    ],
-    "supervision_names": [
-      "Samantha Simmons"
-    ],
-    "management_board_names": [
-      "Sarah Nelson"
-    ],
-    "date": "2021-01-20",
-    "report_number": "RP-022"
-  },
-  {
-    "project": "Project xây dựng Oil 23",
-    "package": "Gói thầu western live 23",
-    "location": "East Marthatown, Taiwan",
-    "work": "Công việc harness best-of-breed relationships",
-    "position": "East Marthatown, Taiwan",
-    "management_board": {
-      "organization": "Ban QLDA Rowe-Ramos",
-      "members": [
-        {
-          "name": "Sarah Clark",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Ellis LLC",
-      "members": [
-        {
-          "name": "Karla Russell",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Knox-Gonzalez",
-      "members": [
-        {
-          "name": "Debra Smith",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2025-01-06",
-    "acceptance_location": "East Marthatown, Taiwan",
-    "contractor_names": [
-      "Debra Smith"
-    ],
-    "supervision_names": [
-      "Karla Russell"
-    ],
-    "management_board_names": [
-      "Sarah Clark"
-    ],
-    "date": "2024-01-17",
-    "report_number": "RP-023"
-  },
-  {
-    "project": "Project xây dựng Book 24",
-    "package": "Gói thầu second most 24",
-    "location": "Nicholsonshire, Norway",
-    "work": "Công việc maximize value-added users",
-    "position": "Nicholsonshire, Norway",
-    "management_board": {
-      "organization": "Ban QLDA Ortiz, Martin and Newman",
-      "members": [
-        {
-          "name": "Larry Smith",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Anderson-Turner",
-      "members": [
-        {
-          "name": "Emily Williams",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Guzman and Sons",
-      "members": [
-        {
-          "name": "Alexandra Aguilar",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-02-11",
-    "acceptance_location": "Nicholsonshire, Norway",
-    "contractor_names": [
-      "Alexandra Aguilar"
-    ],
-    "supervision_names": [
-      "Emily Williams"
-    ],
-    "management_board_names": [
-      "Larry Smith"
-    ],
-    "date": "2025-05-09",
-    "report_number": "RP-024"
-  },
-  {
-    "project": "Project xây dựng Common 25",
-    "package": "Gói thầu particular manage 25",
-    "location": "Sherylburgh, Pakistan",
-    "work": "Công việc reinvent synergistic initiatives",
-    "position": "Sherylburgh, Pakistan",
-    "management_board": {
-      "organization": "Ban QLDA Johnston-Melton",
-      "members": [
-        {
-          "name": "Kimberly Hamilton",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Lee-Austin",
-      "members": [
-        {
-          "name": "Valerie White",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Rodriguez-Hardy",
-      "members": [
-        {
-          "name": "Isaac Nelson",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2020-02-02",
-    "acceptance_location": "Sherylburgh, Pakistan",
-    "contractor_names": [
-      "Isaac Nelson"
-    ],
-    "supervision_names": [
-      "Valerie White"
-    ],
-    "management_board_names": [
-      "Kimberly Hamilton"
-    ],
-    "date": "2022-07-23",
-    "report_number": "RP-025"
-  },
-  {
-    "project": "Project xây dựng Respond 26",
-    "package": "Gói thầu door quite 26",
-    "location": "East Stacie, Jamaica",
-    "work": "Công việc mesh 24/365 systems",
-    "position": "East Stacie, Jamaica",
-    "management_board": {
-      "organization": "Ban QLDA Mullins, Lopez and Thomas",
-      "members": [
-        {
-          "name": "James Hicks",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Smith-Cohen",
-      "members": [
-        {
-          "name": "Thomas Campbell",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Powell-Scott",
-      "members": [
-        {
-          "name": "Peggy Garcia",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-02-14",
-    "acceptance_location": "East Stacie, Jamaica",
-    "contractor_names": [
-      "Peggy Garcia"
-    ],
-    "supervision_names": [
-      "Thomas Campbell"
-    ],
-    "management_board_names": [
-      "James Hicks"
-    ],
-    "date": "2024-08-07",
-    "report_number": "RP-026"
-  },
-  {
-    "project": "Project xây dựng Pattern 27",
-    "package": "Gói thầu charge hot 27",
-    "location": "West Michaelmouth, Peru",
-    "work": "Công việc seize ubiquitous architectures",
-    "position": "West Michaelmouth, Peru",
-    "management_board": {
-      "organization": "Ban QLDA Mcdowell-Barnes",
-      "members": [
-        {
-          "name": "Michael Morgan",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Martin Inc",
-      "members": [
-        {
-          "name": "Maria Brown",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Welch-Johnson",
-      "members": [
-        {
-          "name": "Michael Mora",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2025-06-17",
-    "acceptance_location": "West Michaelmouth, Peru",
-    "contractor_names": [
-      "Michael Mora"
-    ],
-    "supervision_names": [
-      "Maria Brown"
-    ],
-    "management_board_names": [
-      "Michael Morgan"
-    ],
-    "date": "2024-04-01",
-    "report_number": "RP-027"
-  },
-  {
-    "project": "Project xây dựng Mr 28",
-    "package": "Gói thầu collection discover 28",
-    "location": "East Hector, Denmark",
-    "work": "Công việc enhance enterprise e-business",
-    "position": "East Hector, Denmark",
-    "management_board": {
-      "organization": "Ban QLDA Gray-Murphy",
-      "members": [
-        {
-          "name": "Tyler Oliver",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Martin, Graham and Burton",
-      "members": [
-        {
-          "name": "Morgan Cooley",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Parker-Rivera",
-      "members": [
-        {
-          "name": "Lisa Owens",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-09-18",
-    "acceptance_location": "East Hector, Denmark",
-    "contractor_names": [
-      "Lisa Owens"
-    ],
-    "supervision_names": [
-      "Morgan Cooley"
-    ],
-    "management_board_names": [
-      "Tyler Oliver"
-    ],
-    "date": "2021-12-10",
-    "report_number": "RP-028"
-  },
-  {
-    "project": "Project xây dựng Practice 29",
-    "package": "Gói thầu land condition 29",
-    "location": "New Lauren, Bosnia and Herzegovina",
-    "work": "Công việc evolve B2B synergies",
-    "position": "New Lauren, Bosnia and Herzegovina",
-    "management_board": {
-      "organization": "Ban QLDA Banks-Frye",
-      "members": [
-        {
-          "name": "Ryan Garcia",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Garcia Group",
-      "members": [
-        {
-          "name": "Christopher Harmon",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Chavez-Smith",
-      "members": [
-        {
-          "name": "Kathryn Castro",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2020-08-05",
-    "acceptance_location": "New Lauren, Bosnia and Herzegovina",
-    "contractor_names": [
-      "Kathryn Castro"
-    ],
-    "supervision_names": [
-      "Christopher Harmon"
-    ],
-    "management_board_names": [
-      "Ryan Garcia"
-    ],
-    "date": "2024-10-11",
-    "report_number": "RP-029"
-  },
-  {
-    "project": "Project xây dựng Science 30",
-    "package": "Gói thầu rule exactly 30",
-    "location": "West Eric, Benin",
-    "work": "Công việc seize user-centric e-tailers",
-    "position": "West Eric, Benin",
-    "management_board": {
-      "organization": "Ban QLDA Miller LLC",
-      "members": [
-        {
-          "name": "Daniel Johnson",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Acosta-Richardson",
-      "members": [
-        {
-          "name": "Andrea Lutz",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Mathis, Grimes and Cunningham",
-      "members": [
-        {
-          "name": "Lisa Warner",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-03-25",
-    "acceptance_location": "West Eric, Benin",
-    "contractor_names": [
-      "Lisa Warner"
-    ],
-    "supervision_names": [
-      "Andrea Lutz"
-    ],
-    "management_board_names": [
-      "Daniel Johnson"
-    ],
-    "date": "2025-08-25",
-    "report_number": "RP-030"
-  },
-  {
-    "project": "Project xây dựng Parent 31",
-    "package": "Gói thầu generation teach 31",
-    "location": "Nicoleton, Ukraine",
-    "work": "Công việc engage mission-critical action-items",
-    "position": "Nicoleton, Ukraine",
-    "management_board": {
-      "organization": "Ban QLDA Maynard-Harris",
-      "members": [
-        {
-          "name": "Jerome Turner",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Rhodes, Hall and Singh",
-      "members": [
-        {
-          "name": "Charles Peck",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Smith, Roth and Mullins",
-      "members": [
-        {
-          "name": "Erin Lindsey",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-04-23",
-    "acceptance_location": "Nicoleton, Ukraine",
-    "contractor_names": [
-      "Erin Lindsey"
-    ],
-    "supervision_names": [
-      "Charles Peck"
-    ],
-    "management_board_names": [
-      "Jerome Turner"
-    ],
-    "date": "2022-09-20",
-    "report_number": "RP-031"
-  },
-  {
-    "project": "Project xây dựng Determine 32",
-    "package": "Gói thầu beautiful system 32",
-    "location": "Josephside, Macao",
-    "work": "Công việc scale plug-and-play e-markets",
-    "position": "Josephside, Macao",
-    "management_board": {
-      "organization": "Ban QLDA Zavala and Sons",
-      "members": [
-        {
-          "name": "Angela Crawford",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Patterson, Diaz and Leach",
-      "members": [
-        {
-          "name": "Jennifer Navarro",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Cabrera-Snyder",
-      "members": [
-        {
-          "name": "Cameron Macias II",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-08-12",
-    "acceptance_location": "Josephside, Macao",
-    "contractor_names": [
-      "Cameron Macias II"
-    ],
-    "supervision_names": [
-      "Jennifer Navarro"
-    ],
-    "management_board_names": [
-      "Angela Crawford"
-    ],
-    "date": "2023-10-17",
-    "report_number": "RP-032"
-  },
-  {
-    "project": "Project xây dựng Painting 33",
-    "package": "Gói thầu coach north 33",
-    "location": "Port Troyberg, New Caledonia",
-    "work": "Công việc envisioneer value-added synergies",
-    "position": "Port Troyberg, New Caledonia",
-    "management_board": {
-      "organization": "Ban QLDA Barrera Group",
-      "members": [
-        {
-          "name": "Kevin Robinson",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Gutierrez-Roach",
-      "members": [
-        {
-          "name": "Amy Charles",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Mendoza Ltd",
-      "members": [
-        {
-          "name": "Paul Aguirre",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-02-02",
-    "acceptance_location": "Port Troyberg, New Caledonia",
-    "contractor_names": [
-      "Paul Aguirre"
-    ],
-    "supervision_names": [
-      "Amy Charles"
-    ],
-    "management_board_names": [
-      "Kevin Robinson"
-    ],
-    "date": "2021-07-08",
-    "report_number": "RP-033"
-  },
-  {
-    "project": "Project xây dựng Effort 34",
-    "package": "Gói thầu black college 34",
-    "location": "Riosberg, New Zealand",
-    "work": "Công việc synergize plug-and-play ROI",
-    "position": "Riosberg, New Zealand",
-    "management_board": {
-      "organization": "Ban QLDA Proctor-Hanson",
-      "members": [
-        {
-          "name": "Carrie Hill",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Chen, Nelson and Moore",
-      "members": [
-        {
-          "name": "Kristina Brown",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Lane PLC",
-      "members": [
-        {
-          "name": "Rebecca Jackson",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2020-05-05",
-    "acceptance_location": "Riosberg, New Zealand",
-    "contractor_names": [
-      "Rebecca Jackson"
-    ],
-    "supervision_names": [
-      "Kristina Brown"
-    ],
-    "management_board_names": [
-      "Carrie Hill"
-    ],
-    "date": "2024-10-29",
-    "report_number": "RP-034"
-  },
-  {
-    "project": "Project xây dựng Culture 35",
-    "package": "Gói thầu traditional particularly 35",
-    "location": "Port Stacy, Papua New Guinea",
-    "work": "Công việc extend efficient supply-chains",
-    "position": "Port Stacy, Papua New Guinea",
-    "management_board": {
-      "organization": "Ban QLDA Norton Group",
-      "members": [
-        {
-          "name": "Jennifer Brown",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Brown-Moss",
-      "members": [
-        {
-          "name": "Manuel Mason",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Armstrong, Rodriguez and Mathews",
-      "members": [
-        {
-          "name": "Jenna Shaw",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2022-06-10",
-    "acceptance_location": "Port Stacy, Papua New Guinea",
-    "contractor_names": [
-      "Jenna Shaw"
-    ],
-    "supervision_names": [
-      "Manuel Mason"
-    ],
-    "management_board_names": [
-      "Jennifer Brown"
-    ],
-    "date": "2025-07-26",
-    "report_number": "RP-035"
-  },
-  {
-    "project": "Project xây dựng Case 36",
-    "package": "Gói thầu support remember 36",
-    "location": "Romanfurt, Dominican Republic",
-    "work": "Công việc grow front-end content",
-    "position": "Romanfurt, Dominican Republic",
-    "management_board": {
-      "organization": "Ban QLDA Boyd, Sanchez and West",
-      "members": [
-        {
-          "name": "Elizabeth Wilson",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Cook-Ramirez",
-      "members": [
-        {
-          "name": "Greg Thompson",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Jenkins Ltd",
-      "members": [
-        {
-          "name": "Shelly Frazier",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-12-03",
-    "acceptance_location": "Romanfurt, Dominican Republic",
-    "contractor_names": [
-      "Shelly Frazier"
-    ],
-    "supervision_names": [
-      "Greg Thompson"
-    ],
-    "management_board_names": [
-      "Elizabeth Wilson"
-    ],
-    "date": "2020-03-28",
-    "report_number": "RP-036"
-  },
-  {
-    "project": "Project xây dựng Good 37",
-    "package": "Gói thầu term care 37",
-    "location": "Port Ashley, Heard Island and McDonald Islands",
-    "work": "Công việc architect intuitive deliverables",
-    "position": "Port Ashley, Heard Island and McDonald Islands",
-    "management_board": {
-      "organization": "Ban QLDA Hanson LLC",
-      "members": [
-        {
-          "name": "Christian Mason",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Perry Inc",
-      "members": [
-        {
-          "name": "Emily Smith",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Baker Inc",
-      "members": [
-        {
-          "name": "Maureen Keller MD",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2022-10-10",
-    "acceptance_location": "Port Ashley, Heard Island and McDonald Islands",
-    "contractor_names": [
-      "Maureen Keller MD"
-    ],
-    "supervision_names": [
-      "Emily Smith"
-    ],
-    "management_board_names": [
-      "Christian Mason"
-    ],
-    "date": "2025-04-07",
-    "report_number": "RP-037"
-  },
-  {
-    "project": "Project xây dựng When 38",
-    "package": "Gói thầu style discuss 38",
-    "location": "New Elizabeth, Anguilla",
-    "work": "Công việc deliver out-of-the-box initiatives",
-    "position": "New Elizabeth, Anguilla",
-    "management_board": {
-      "organization": "Ban QLDA Griffin, Jones and Henry",
-      "members": [
-        {
-          "name": "Kevin Lopez",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Johnson PLC",
-      "members": [
-        {
-          "name": "Thomas Flores",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Chambers, Powell and Pittman",
-      "members": [
-        {
-          "name": "Valerie Walker",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-03-24",
-    "acceptance_location": "New Elizabeth, Anguilla",
-    "contractor_names": [
-      "Valerie Walker"
-    ],
-    "supervision_names": [
-      "Thomas Flores"
-    ],
-    "management_board_names": [
-      "Kevin Lopez"
-    ],
-    "date": "2023-12-19",
-    "report_number": "RP-038"
-  },
-  {
-    "project": "Project xây dựng Pass 39",
-    "package": "Gói thầu night describe 39",
-    "location": "North Nicholas, Armenia",
-    "work": "Công việc monetize open-source schemas",
-    "position": "North Nicholas, Armenia",
-    "management_board": {
-      "organization": "Ban QLDA Turner-Sanchez",
-      "members": [
-        {
-          "name": "Larry Mendoza",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Allen, Long and Campbell",
-      "members": [
-        {
-          "name": "Tyler Garcia",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Vasquez-Bernard",
-      "members": [
-        {
-          "name": "Phillip Smith",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2025-08-25",
-    "acceptance_location": "North Nicholas, Armenia",
-    "contractor_names": [
-      "Phillip Smith"
-    ],
-    "supervision_names": [
-      "Tyler Garcia"
-    ],
-    "management_board_names": [
-      "Larry Mendoza"
-    ],
-    "date": "2023-05-18",
-    "report_number": "RP-039"
-  },
-  {
-    "project": "Project xây dựng It 40",
-    "package": "Gói thầu to film 40",
-    "location": "Parkerton, Cayman Islands",
-    "work": "Công việc re-contextualize impactful networks",
-    "position": "Parkerton, Cayman Islands",
-    "management_board": {
-      "organization": "Ban QLDA Kim, Lambert and Warren",
-      "members": [
-        {
-          "name": "Rachel Roberts",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Thomas PLC",
-      "members": [
-        {
-          "name": "Shelby Robertson",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Carpenter, Gomez and Mitchell",
-      "members": [
-        {
-          "name": "Terry Avila",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2025-04-28",
-    "acceptance_location": "Parkerton, Cayman Islands",
-    "contractor_names": [
-      "Terry Avila"
-    ],
-    "supervision_names": [
-      "Shelby Robertson"
-    ],
-    "management_board_names": [
-      "Rachel Roberts"
-    ],
-    "date": "2023-02-09",
-    "report_number": "RP-040"
-  },
-  {
-    "project": "Project xây dựng Goal 41",
-    "package": "Gói thầu officer arm 41",
-    "location": "Silvaberg, Chad",
-    "work": "Công việc whiteboard killer experiences",
-    "position": "Silvaberg, Chad",
-    "management_board": {
-      "organization": "Ban QLDA Avila-Thomas",
-      "members": [
-        {
-          "name": "Emily Kent",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Harris Inc",
-      "members": [
-        {
-          "name": "Matthew Davis",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty White-Fitzgerald",
-      "members": [
-        {
-          "name": "Jonathan Shelton",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-11-17",
-    "acceptance_location": "Silvaberg, Chad",
-    "contractor_names": [
-      "Jonathan Shelton"
-    ],
-    "supervision_names": [
-      "Matthew Davis"
-    ],
-    "management_board_names": [
-      "Emily Kent"
-    ],
-    "date": "2020-02-02",
-    "report_number": "RP-041"
-  },
-  {
-    "project": "Project xây dựng Word 42",
-    "package": "Gói thầu nice rich 42",
-    "location": "Jerryside, Netherlands Antilles",
-    "work": "Công việc strategize virtual communities",
-    "position": "Jerryside, Netherlands Antilles",
-    "management_board": {
-      "organization": "Ban QLDA Aguirre and Sons",
-      "members": [
-        {
-          "name": "Randy Coleman",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Mayer, Schultz and Kent",
-      "members": [
-        {
-          "name": "Suzanne Hall",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Kline LLC",
-      "members": [
-        {
-          "name": "Elizabeth Gonzalez",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2020-03-03",
-    "acceptance_location": "Jerryside, Netherlands Antilles",
-    "contractor_names": [
-      "Elizabeth Gonzalez"
-    ],
-    "supervision_names": [
-      "Suzanne Hall"
-    ],
-    "management_board_names": [
-      "Randy Coleman"
-    ],
-    "date": "2023-07-01",
-    "report_number": "RP-042"
-  },
-  {
-    "project": "Project xây dựng Then 43",
-    "package": "Gói thầu fall thank 43",
-    "location": "Meyersland, United States of America",
-    "work": "Công việc engineer viral functionalities",
-    "position": "Meyersland, United States of America",
-    "management_board": {
-      "organization": "Ban QLDA Brennan Group",
-      "members": [
-        {
-          "name": "Joseph Baker",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Mendez, Marshall and Gillespie",
-      "members": [
-        {
-          "name": "Caitlin Porter",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Rodriguez-Garrison",
-      "members": [
-        {
-          "name": "Adam Morgan",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2025-06-19",
-    "acceptance_location": "Meyersland, United States of America",
-    "contractor_names": [
-      "Adam Morgan"
-    ],
-    "supervision_names": [
-      "Caitlin Porter"
-    ],
-    "management_board_names": [
-      "Joseph Baker"
-    ],
-    "date": "2021-04-06",
-    "report_number": "RP-043"
-  },
-  {
-    "project": "Project xây dựng Listen 44",
-    "package": "Gói thầu total receive 44",
-    "location": "Katherinefort, Egypt",
-    "work": "Công việc enhance vertical e-commerce",
-    "position": "Katherinefort, Egypt",
-    "management_board": {
-      "organization": "Ban QLDA Gutierrez-Dunn",
-      "members": [
-        {
-          "name": "Michelle Martinez",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Braun, Weaver and Brown",
-      "members": [
-        {
-          "name": "Harold Clark",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Anderson-Santos",
-      "members": [
-        {
-          "name": "Laura Thomas",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2025-01-17",
-    "acceptance_location": "Katherinefort, Egypt",
-    "contractor_names": [
-      "Laura Thomas"
-    ],
-    "supervision_names": [
-      "Harold Clark"
-    ],
-    "management_board_names": [
-      "Michelle Martinez"
-    ],
-    "date": "2021-07-26",
-    "report_number": "RP-044"
-  },
-  {
-    "project": "Project xây dựng Minute 45",
-    "package": "Gói thầu approach any 45",
-    "location": "Whitneyhaven, Montserrat",
-    "work": "Công việc scale cross-platform initiatives",
-    "position": "Whitneyhaven, Montserrat",
-    "management_board": {
-      "organization": "Ban QLDA Ortiz, Gutierrez and Casey",
-      "members": [
-        {
-          "name": "Roberto Wilkinson",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Harper Ltd",
-      "members": [
-        {
-          "name": "Julie Garcia",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Quinn, Larson and Bradford",
-      "members": [
-        {
-          "name": "Tiffany West",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-02-20",
-    "acceptance_location": "Whitneyhaven, Montserrat",
-    "contractor_names": [
-      "Tiffany West"
-    ],
-    "supervision_names": [
-      "Julie Garcia"
-    ],
-    "management_board_names": [
-      "Roberto Wilkinson"
-    ],
-    "date": "2020-04-04",
-    "report_number": "RP-045"
-  },
-  {
-    "project": "Project xây dựng Open 46",
-    "package": "Gói thầu off understand 46",
-    "location": "Saraport, Ukraine",
-    "work": "Công việc target ubiquitous ROI",
-    "position": "Saraport, Ukraine",
-    "management_board": {
-      "organization": "Ban QLDA Simpson, Harvey and Fisher",
-      "members": [
-        {
-          "name": "Jason Lewis",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Braun-Fleming",
-      "members": [
-        {
-          "name": "Brett Velazquez",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Higgins LLC",
-      "members": [
-        {
-          "name": "Mary Aguilar",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-10-27",
-    "acceptance_location": "Saraport, Ukraine",
-    "contractor_names": [
-      "Mary Aguilar"
-    ],
-    "supervision_names": [
-      "Brett Velazquez"
-    ],
-    "management_board_names": [
-      "Jason Lewis"
-    ],
-    "date": "2020-11-01",
-    "report_number": "RP-046"
-  },
-  {
-    "project": "Project xây dựng Job 47",
-    "package": "Gói thầu available radio 47",
-    "location": "Mariahaven, Burundi",
-    "work": "Công việc cultivate wireless communities",
-    "position": "Mariahaven, Burundi",
-    "management_board": {
-      "organization": "Ban QLDA Gibbs LLC",
-      "members": [
-        {
-          "name": "Melissa Woods",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Brewer, Kim and Anderson",
-      "members": [
-        {
-          "name": "Daisy Williams",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Turner Group",
-      "members": [
-        {
-          "name": "Stephen Thornton",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-03-21",
-    "acceptance_location": "Mariahaven, Burundi",
-    "contractor_names": [
-      "Stephen Thornton"
-    ],
-    "supervision_names": [
-      "Daisy Williams"
-    ],
-    "management_board_names": [
-      "Melissa Woods"
-    ],
-    "date": "2022-05-15",
-    "report_number": "RP-047"
-  },
-  {
-    "project": "Project xây dựng Good 48",
-    "package": "Gói thầu but sport 48",
-    "location": "West Shaneville, Saint Kitts and Nevis",
-    "work": "Công việc leverage world-class initiatives",
-    "position": "West Shaneville, Saint Kitts and Nevis",
-    "management_board": {
-      "organization": "Ban QLDA Perez Inc",
-      "members": [
-        {
-          "name": "Suzanne Jones",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Heath Inc",
-      "members": [
-        {
-          "name": "Aaron Parks",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Mills-Reed",
-      "members": [
-        {
-          "name": "Steven Schwartz",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2023-02-14",
-    "acceptance_location": "West Shaneville, Saint Kitts and Nevis",
-    "contractor_names": [
-      "Steven Schwartz"
-    ],
-    "supervision_names": [
-      "Aaron Parks"
-    ],
-    "management_board_names": [
-      "Suzanne Jones"
-    ],
-    "date": "2025-04-16",
-    "report_number": "RP-048"
-  },
-  {
-    "project": "Project xây dựng Beyond 49",
-    "package": "Gói thầu someone feel 49",
-    "location": "Pammouth, Ghana",
-    "work": "Công việc monetize killer experiences",
-    "position": "Pammouth, Ghana",
-    "management_board": {
-      "organization": "Ban QLDA Conway-King",
-      "members": [
-        {
-          "name": "Anthony George",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Chang, Hawkins and Johnson",
-      "members": [
-        {
-          "name": "Betty Edwards",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Avery Group",
-      "members": [
-        {
-          "name": "Eric Howard DVM",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2021-09-03",
-    "acceptance_location": "Pammouth, Ghana",
-    "contractor_names": [
-      "Eric Howard DVM"
-    ],
-    "supervision_names": [
-      "Betty Edwards"
-    ],
-    "management_board_names": [
-      "Anthony George"
-    ],
-    "date": "2020-06-13",
-    "report_number": "RP-049"
-  },
-  {
-    "project": "Project xây dựng Me 50",
-    "package": "Gói thầu need season 50",
-    "location": "West Ericborough, Nigeria",
-    "work": "Công việc expedite web-enabled eyeballs",
-    "position": "West Ericborough, Nigeria",
-    "management_board": {
-      "organization": "Ban QLDA Tucker-Garcia",
-      "members": [
-        {
-          "name": "Kelsey Soto",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Wilson-Trevino",
-      "members": [
-        {
-          "name": "Martin Hudson",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Morris-Parks",
-      "members": [
-        {
-          "name": "Kenneth Harris",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2022-02-12",
-    "acceptance_location": "West Ericborough, Nigeria",
-    "contractor_names": [
-      "Kenneth Harris"
-    ],
-    "supervision_names": [
-      "Martin Hudson"
-    ],
-    "management_board_names": [
-      "Kelsey Soto"
-    ],
-    "date": "2025-06-03",
-    "report_number": "RP-050"
-  },
-  {
-    "project": "Project xây dựng Piece 51",
-    "package": "Gói thầu rather walk 51",
-    "location": "West Jamieport, Tokelau",
-    "work": "Công việc expedite next-generation e-business",
-    "position": "West Jamieport, Tokelau",
-    "management_board": {
-      "organization": "Ban QLDA Glass-Moore",
-      "members": [
-        {
-          "name": "Timothy Hartman",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Sellers-Smith",
-      "members": [
-        {
-          "name": "Joshua Kennedy",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Morales Inc",
-      "members": [
-        {
-          "name": "Shawn Miles",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-04-30",
-    "acceptance_location": "West Jamieport, Tokelau",
-    "contractor_names": [
-      "Shawn Miles"
-    ],
-    "supervision_names": [
-      "Joshua Kennedy"
-    ],
-    "management_board_names": [
-      "Timothy Hartman"
-    ],
-    "date": "2020-07-14",
-    "report_number": "RP-051"
-  },
-  {
-    "project": "Project xây dựng Minute 52",
-    "package": "Gói thầu instead head 52",
-    "location": "Tammyfort, Niue",
-    "work": "Công việc cultivate transparent web-readiness",
-    "position": "Tammyfort, Niue",
-    "management_board": {
-      "organization": "Ban QLDA Scott Inc",
-      "members": [
-        {
-          "name": "Margaret Bond",
-          "title": "Trưởng ban QLDA"
-        },
-        {
-          "name": null,
-          "title": "Cán bộ kỹ thuật"
-        }
-      ]
-    },
-    "supervision_consultant": {
-      "organization": "Tư vấn giám sát Brown-Kent",
-      "members": [
-        {
-          "name": "Steve Smith",
-          "title": "Giám sát trưởng"
-        }
-      ]
-    },
-    "contractor": {
-      "organization": "Công ty Foster-Frost",
-      "members": [
-        {
-          "name": "William Rodriguez",
-          "title": "Chỉ huy trưởng"
-        }
-      ]
-    },
-    "acceptance_time": "2024-01-28",
-    "acceptance_location": "Tammyfort, Niue",
-    "contractor_names": [
-      "William Rodriguez"
-    ],
-    "supervision_names": [
-      "Steve Smith"
-    ],
-    "management_board_names": [
-      "Margaret Bond"
-    ],
-    "date": "2021-01-01",
-    "report_number": "RP-052"
-  }
-]
+            "project": "Project xây dựng Sample 10",
+            "package_name": "Gói thầu sample 10",
+            "location": "Sample Location 10",
+            "work": "Công việc sample work 10",
+            "position": "Sample Position 10",
+            "management_board": {
+                "organization": "Ban QLDA Sample Org 10",
+                "members": [
+                    {
+                        "name": "Manager 10",
+                        "title": "Trưởng ban QLDA"
+                    },
+                    {
+                        "name": null,
+                        "title": "Cán bộ kỹ thuật"
+                    }
+                ]
+            },
+            "supervision_consultant": {
+                "organization": "Tư vấn giám sát Org 10",
+                "members": [
+                    {
+                        "name": "Supervisor 10",
+                        "title": "Giám sát trưởng"
+                    }
+                ]
+            },
+            "contractor": {
+                "organization": "Công ty Contractor 10",
+                "members": [
+                    {
+                        "name": "Contractor 10",
+                        "title": "Chỉ huy trưởng"
+                    }
+                ]
+            },
+            "acceptance_time": "2024-01-10",
+            "acceptance_location": "Sample Location 10",
+            "contractor_names": [
+                "Contractor 10"
+            ],
+            "supervision_names": [
+                "Supervisor 10"
+            ],
+            "management_board_names": [
+                "Manager 10"
+            ],
+            "date": "2024-06-10",
+            "report_number": "RP-010"
+        }
+    ]
+}
