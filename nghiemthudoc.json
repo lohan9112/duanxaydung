@@ -16,7 +16,7 @@
       "acceptance_request_form": "Phiếu yêu cầu nghiệm thu của nhà thầu",
       "construction_contract": "Hợp đồng xây dựng",
       "construction_schedule": "Tiến độ thi công/ lắp đặt thiết bị",
-      "name": "Tên",
+      "name": "Ông/Bà",
       "title": "Chức vụ"
     },
     "en": {
@@ -35,7 +35,7 @@
       "acceptance_request_form": "Acceptance Request Form",
       "construction_contract": "Construction Contract",
       "construction_schedule": "Construction Schedule",
-      "name": "Name",
+      "name": "Mr./Mrs.",
       "title": "Title"
     }
   },
